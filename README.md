@@ -32,24 +32,24 @@ Prediction: The application will analyze the data and provide predictions regard
 
 Html<br>Css<br>JavaScript<br>Flask
 
-### Future Enhancements
+[//]: <> (### Future Enhancements)
 
-[Describe potential future improvements or features, such as expanding the dataset, refining the models, or integrating with real-time animal behavior monitoring systems]
+[//]: <> ([Describe potential future improvements or features, such as expanding the dataset, refining the models, or integrating with real-time animal behavior monitoring systems])
 
 ### Contributions
 
 Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
-### License
+[//]: <> (### License)
 
-[Specify the license under which the project is released, e.g., MIT License]
+[//]: <> ([Specify the license under which the project is released, e.g., MIT License])
 
-### Acknowledgements
+[//]: <> (### Acknowledgements)
 
-[Acknowledge any external resources, libraries, or datasets used in the project]
+[//]: <> ([Acknowledge any external resources, libraries, or datasets used in the project])
 
-### Additional Notes
+[//]: <> (### Additional Notes)
 
-> Consider adding a detailed explanation of the machine learning algorithms used and how they were applied to the problem.
-> Include any relevant research papers or publications that inspired the project.
-> Provide instructions for running unit tests or other quality assurance procedures.
+[//]: <> (> Consider adding a detailed explanation of the machine learning algorithms used and how they were applied to the problem.)
+[//]: <> (> Include any relevant research papers or publications that inspired the project.)
+[//]: <> (> Provide instructions for running unit tests or other quality assurance procedures.)
